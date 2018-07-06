@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <monitor>
+        <name>GOSS</name>
+        <key>gossbtc</key>
+    </monitor>
+    <monitor>
+        <name>CDM</name>
+        <key>cdmbtc</key>
+    </monitor>
+    <monitor>
+        <name>SPO</name>
+        <key>spobtc</key>
+    </monitor>
+    <monitor>
+        <name>WINO</name>
+        <key>winobtc</key>
+    </monitor>
+    <monitor>
+        <name>H2O</name>
+        <key>h2obtc</key>
+    </monitor>
+    <monitor>
+        <name>PTN</name>
+        <key>ptnbtc</key>
+    </monitor>
+    <monitor>
+        <name>GNRO</name>
+        <key>gnrobtc</key>
+    </monitor>
+    <monitor>
+        <name>KETAN</name>
+        <key>ketanbtc</key>
+    </monitor>
+    <monitor>
+        <name>IPS</name>
+        <key>ipsbtc</key>
+    </monitor>
+    <monitor>
+        <name>CHN</name>
+        <key>chnbtc</key>
+    </monitor>
+</properties>
+

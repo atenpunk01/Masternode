@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>    
+    <monitor>
+        <name>GOSS</name>
+        <key>GOSS_BTC</key>
+    </monitor>
+    <monitor>
+        <name>CDM</name>
+        <key>CDM_BTC</key>
+    </monitor>
+    <monitor>
+        <name>VYI</name>
+        <key>VYI_BTC</key>
+    </monitor>
+    <monitor>
+        <name>MCC</name>
+        <key>MCC_BTC</key>
+    </monitor>
+    <monitor>
+        <name>APEIR</name>
+        <key>APEIR_BTC</key>
+    </monitor>
+    <monitor>
+        <name>LTX</name>
+        <key>LTX_BTC</key>
+    </monitor>
+    <monitor>
+        <name>OYS</name>
+        <key>OYS_BTC</key>
+    </monitor>
+    <monitor>
+        <name>SEKO</name>
+        <key>SEKO_BTC</key>
+    </monitor>
+</properties>
+
