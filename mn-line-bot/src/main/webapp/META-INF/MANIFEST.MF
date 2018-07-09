@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: mai
+Build-Jdk: 1.6.0_25
+Created-By: Mai
+Dependencies: org.apache.httpcomponents
+
